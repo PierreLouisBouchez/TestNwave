@@ -35,7 +35,7 @@ add disc  250  -216 0 0 255  250
 
 <img src="https://github.com/PierreLouisBouchez/TestNwave/blob/main/test.png" width="220" height="200" />
 
-###Improving the Code
+### Improving the Code
 
 The current implementation of the library works well for circles. However, there are several ways in which the code can be improved to make it more flexible and extendable for other developers :
 
