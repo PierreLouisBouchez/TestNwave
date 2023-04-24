@@ -41,6 +41,8 @@ The current implementation of the library works well for circles. However, there
 
 - Currently, the library only supports circles. Other shapes like squares, triangles, or polygons can be added to the SceneObject file .
 
-- In addition to JSON and CSV serializers, other formats like XML or YAML can be added in the class Serializer.
+- In addition to JSON and CSV serializers, other formats like XML or USD can be added in the class Serializer.
+
+- In parallel to the PNG and JPG renderers, other formats such as HTML or PPM can be added in the Renderer class.
 
 
