@@ -37,7 +37,7 @@ add disc  250  -216 0 0 255  250
 
 ### Improving the Code
 
-The current implementation of the library works well for circles. However, there are several ways in which the code can be improved to make it more flexible and extendable for other developers :
+There are several ways in which the code can be improved to make it more flexible and extendable :
 
 - Currently, the library only supports circles. Other shapes like squares, triangles, or polygons can be added to the SceneObject file .
 
